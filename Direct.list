@@ -1,0 +1,10 @@
+# 该 list 自定义所有有直连需要的服务
+
+
+# 个人业务
+# DOMAIN,xxx.me // 个人
+
+
+# Plex 服务
+# DOMAIN-SUFFIX,plex.direct // 仅作用于 Plex 流媒体加载
+
