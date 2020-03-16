@@ -6,5 +6,5 @@
 
 
 # Plex 服务
-# DOMAIN-SUFFIX,plex.direct // 仅作用于 Plex 流媒体加载
+DOMAIN-SUFFIX,plex.direct // 仅作用于 Plex 流媒体加载
 
